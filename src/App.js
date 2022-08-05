@@ -49,8 +49,8 @@ const App = () => {
                 navbar w-full">
                     <Navbar />
                 </div>
-            </div>
-            <div>
+            
+            
                 <div>
                     <Routes>
                         {/* Dashboard*/}
