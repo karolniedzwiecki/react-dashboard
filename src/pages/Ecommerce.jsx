@@ -67,7 +67,7 @@ const Ecommerce = () => {
             </div>
           ))}
         </div>
-      </div>
+        </div>
       <div className="flex gap-10 flex-wrap 
       justify-center">
         <div className="bg-white
@@ -154,4 +154,4 @@ const Ecommerce = () => {
   )
 }
 
-export default Ecommerce
+export default Ecommerce;
